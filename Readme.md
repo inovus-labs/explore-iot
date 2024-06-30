@@ -1,6 +1,6 @@
 # explore-iot
 
-### IoT Projects Documentation Repository
+### IoT Projects Documentation Repository 🌐🔧
 
 Welcome to the IoT Projects Documentation Repository! This repository is dedicated to storing README files for various IoT projects. Each project includes a comprehensive guide on components required, circuit diagrams, code, setup instructions, usage, and troubleshooting.
 
@@ -10,7 +10,7 @@ Welcome to the IoT Projects Documentation Repository! This repository is dedicat
 2. [Projects](#projects)
 3. [How to Use](#how-to-use)
 4. [Contributing](#contributing)
-5. [License](#license)
+
 
 ## Introduction
 
@@ -20,7 +20,6 @@ This repository serves as a centralized location for detailed documentation of I
 
 ### 1. Automated Light Control using Ultrasonic Sensor and Relay
 - [View README](projects/automated-light-control.md)
-
 
 ## How to Use
 
