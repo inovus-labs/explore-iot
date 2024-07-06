@@ -17,10 +17,10 @@ This repository serves as a centralized location for detailed documentation of I
 ## Projects
 
 ### 1. Automated Light Control using Ultrasonic Sensor and Relay
-- [View README](Amith-Abey-Stephen/automated-light-control.md)
+- [View README](inovus-labs/explore-iot/blob/master/Amith-Abey-Stephen/automated_work_light.m)
 
-### 2. Automated Light Control using Ultrasonic Sensor and Relay
-- [View README](Amith-Abey-Stephen\soil_moisturer.md)
+### 2. Automated Soil Moisture Control using Soil Moisture Sensor and Relay
+- [View README](Amith-Abey-Stephen/automated_work_light.md)
 
 ## How to Use
 
