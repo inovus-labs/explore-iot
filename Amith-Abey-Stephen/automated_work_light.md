@@ -1,4 +1,4 @@
-# IoT Project: Automated Light Control using Ultrasonic Sensor and Relay
+# Automated Light Control using Ultrasonic Sensor and Relay
 
 This project utilizes an Arduino Uno development board along with an ultrasonic sensor and a relay module to create an automated light control system. The system turns on the light connected to the relay if the ultrasonic sensor detects an object within 50 cm. This README provides a comprehensive guide to set up and use the system effectively.
 
