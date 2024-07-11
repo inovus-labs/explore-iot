@@ -17,7 +17,7 @@ This repository serves as a centralized location for detailed documentation of I
 
 ### 1. Automated Light Control using Ultrasonic Sensor and Relay
 
-* [View README](amith-abey-stephen/soil\_moisturer.md)
+* [View README](broken-reference)
 
 ### 2. Automated Soil Moisture Control using Soil Moisture Sensor and Relay
 

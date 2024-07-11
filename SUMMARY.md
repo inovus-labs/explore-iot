@@ -1,8 +1,6 @@
 # Table of contents
 
 * [Explore-IoT - Projects Documentation Repository 🌐🔧](README.md)
-* [Amith-Abey-Stephen](amith-abey-stephen/README.md)
-  * [Automated Soil Moisture Control using Soil Moisture Sensor and Relay](amith-abey-stephen/soil\_moisturer.md)
 
 ## Arduino Scribblings
 
