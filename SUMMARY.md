@@ -2,11 +2,11 @@
 
 * [Explore-IoT - Projects Documentation Repository 🌐🔧](README.md)
 
-## Arduino Scribblings
+## 👾 Arduino
 
-* [Automated Light Control using Ultrasonic Sensor and Relay](arduino-scribblings/automated-light-control-using-ultrasonic-sensor-and-relay.md)
-* [Automated Soil Moisture Control using Soil Moisture Sensor and Relay](arduino-scribblings/automated-soil-moisture-control-using-soil-moisture-sensor-and-relay.md)
+* [Light Control using Ultrasonic Sensor and Relay](arduino/light-control-using-ultrasonic-sensor-and-relay.md)
+* [Experiment using a Soil Moisture Sensor and a Relay](arduino/experiment-using-a-soil-moisture-sensor-and-a-relay.md)
 
-## ESP Ecosystem
+## 👾 ESP
 
-* [Lorem Ipsum](esp-ecosystem/lorem-ipsum.md)
+* [Lorem Ipsum](esp/lorem-ipsum.md)
