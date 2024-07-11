@@ -4,11 +4,10 @@ Welcome to the Explore-IoT Projects Documentation Repository! This repository is
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
-2. [Projects](#projects)
-3. [How to Use](#how-to-use)
-4. [Contributing](#contributing)
-
+1. [Introduction](./#introduction)
+2. [Projects](./#projects)
+3. [How to Use](./#how-to-use)
+4. [Contributing](./#contributing)
 
 ## Introduction
 
@@ -17,10 +16,12 @@ This repository serves as a centralized location for detailed documentation of I
 ## Projects
 
 ### 1. Automated Light Control using Ultrasonic Sensor and Relay
-- [View README](Amith-Abey-Stephen/soil_moisturer.md)
+
+* [View README](amith-abey-stephen/soil\_moisturer.md)
 
 ### 2. Automated Soil Moisture Control using Soil Moisture Sensor and Relay
-- [View README](Amith-Abey-Stephen/automated_work_light.md)
+
+* [View README](broken-reference)
 
 ## How to Use
 
@@ -35,5 +36,5 @@ We welcome contributions to expand this repository with more IoT projects. To co
 1. Fork the repository.
 2. Create a new folder within the directory named after your project (e.g., `smart-irrigation-system`).
 3. Add a detailed README file in Markdown format within your project folder.
-4. Update the [Projects](#projects) section of the main README to include a link to your new project's README file.
+4. Update the [Projects](./#projects) section of the main README to include a link to your new project's README file.
 5. Submit a pull request with your changes.

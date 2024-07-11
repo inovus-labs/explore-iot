@@ -3,13 +3,15 @@
 This project utilizes an Arduino Uno development board along with an ultrasonic sensor and a relay module to create an automated light control system. The system turns on the light connected to the relay if the ultrasonic sensor detects an object within 50 cm. This README provides a comprehensive guide to set up and use the system effectively.
 
 ## Components Required
-- Arduino Uno
-- Ultrasonic sensor (HC-SR04)
-- Relay module
-- Jumper wires
-- Light bulb or LED with appropriate power source
+
+* Arduino Uno
+* Ultrasonic sensor (HC-SR04)
+* Relay module
+* Jumper wires
+* Light bulb or LED with appropriate power source
 
 ## Circuit Diagram
+
 Ensure to connect the components as shown in the circuit diagram:
 
 ![Circuit Diagram](https://github.com/inovus-labs/explore-iot/assets/145148320/f8d8352d-931c-4e8b-adde-2e10e8ab1eab)
@@ -22,6 +24,7 @@ Ensure to connect the components as shown in the circuit diagram:
 6. Connect the light bulb or LED to the relay module.
 
 ## Code
+
 Upload the following code to the Arduino Uno using the Arduino IDE:
 
 ```cpp
@@ -71,6 +74,7 @@ void loop() {
 ```
 
 ## Setting Up
+
 1. Install the Arduino IDE from the official [Arduino website](https://www.arduino.cc/).
 2. Connect the Arduino Nano to your computer via USB.
 3. Open the Arduino IDE and paste the code above into a new sketch.
@@ -78,11 +82,12 @@ void loop() {
 5. Click the upload button to upload the code to the Arduino Nano.
 
 ## Usage
+
 Once the code is uploaded, the system will continuously monitor the distance detected by the ultrasonic sensor. If the sensor detects an object within 50 cm, the relay will activate, turning on the light. If the object moves beyond 50 cm, the relay will deactivate, turning off the light.
 
 ## Troubleshooting
 
-- Ensure all connections are secure and correct.
-- Check the power supply for the Arduino Nano and the relay module.
-- Use the Serial Monitor in the Arduino IDE to debug and monitor the distance readings from the ultrasonic sensor.
-- If the light turns on when the ultrasonic sensor detects a distance greater than 50 cm, switch the `LOW` written for the relay to `HIGH` and vice versa (i.e., change `digitalWrite(RELAY_PIN, LOW)` to `digitalWrite(RELAY_PIN, HIGH)` and `digitalWrite(RELAY_PIN, HIGH)` to `digitalWrite(RELAY_PIN, LOW)`).
+* Ensure all connections are secure and correct.
+* Check the power supply for the Arduino Nano and the relay module.
+* Use the Serial Monitor in the Arduino IDE to debug and monitor the distance readings from the ultrasonic sensor.
+* If the light turns on when the ultrasonic sensor detects a distance greater than 50 cm, switch the `LOW` written for the relay to `HIGH` and vice versa (i.e., change `digitalWrite(RELAY_PIN, LOW)` to `digitalWrite(RELAY_PIN, HIGH)` and `digitalWrite(RELAY_PIN, HIGH)` to `digitalWrite(RELAY_PIN, LOW)`).
