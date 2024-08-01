@@ -1,4 +1,4 @@
-# Automated Soil Moisture Control using Soil Moisture Sensor and Relay
+# 🌟 Experiment using a Soil Moisture Sensor and a Relay
 
 This project utilizes an Arduino Uno development board along with a soil moisture sensor and a relay module to create an automated soil moisture control system. The system turns on the water pump connected to the relay if the soil moisture sensor detects a moisture level below a specified threshold. This README provides a comprehensive guide to set up and use the system effectively.
 
