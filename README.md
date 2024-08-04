@@ -11,18 +11,6 @@ Our experiments section contains detailed documentation on each IoT experiment c
 * **Results**: Observations and data collected during the experiment.
 * **Discussion**: Analysis of the results and potential improvements.
 
-## 🌟 References
-
-We have compiled a list of references to support your learning, including:
-
-* **Papers**: Academic and industry papers relevant to IoT.
-* **Tutorials**: Step-by-step guides and educational resources.
-* **Tools**: Information on tools and software used in our experiments.
-
-## 🌟 Glossary
-
-A glossary of terms used in the field of IoT to help you understand the technical language and concepts.
-
 ## 🌟 Contributing
 
 We welcome contributions from the community. If you have an IoT experiment or resource you'd like to share, please follow our [contribution guidelines](CONTRIBUTING.md).
