@@ -1,6 +1,12 @@
-# Explore-IoT - Projects Documentation Repository 🌐🔧
+---
+cover: >-
+  https://images.unsplash.com/photo-1553341640-9397992456f3?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw3fHxpb3R8ZW58MHx8fHwxNzIyNzU5Mjc3fDA&ixlib=rb-4.0.3&q=85
+coverY: 0
+---
 
-Welcome to the Explore-IoT Projects Documentation Repository! This repository is dedicated to storing README files for various IoT projects. Each project includes a comprehensive guide on components required, circuit diagrams, code, setup instructions, usage, and troubleshooting.
+# ⚡ IoT Knowledge Base 🌐🔧
+
+Welcome to the IOT Knowledge Base! This comprehensive repository documents the various IoT experiments conducted at [Inovus Labs IEDC](https://inovuslabs.org/). The goal is to provide detailed insights, methodologies, and results from our IoT projects to aid in learning and research.
 
 ## Table of Contents
 
